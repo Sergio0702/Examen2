@@ -149,7 +149,7 @@ fun Pantallas(
                                         "Se han añadido $horas de la asignatura ${asignatura.nombre} con precio ${asignatura.precioHora}"
 
 
-                            
+
 
                                     for (asignatura in asignaturasTotales) {
 
@@ -160,6 +160,7 @@ fun Pantallas(
                                         }
 
                                     }
+
 
 
                                    // loterias.add(asignatura)
